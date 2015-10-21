@@ -1,6 +1,6 @@
 #Map demo
 
-Demo of the google map, Google map markers and Google map directions components
+Demo of the Google map, Google map markers and Google map directions components.
 
 ```json
 {
