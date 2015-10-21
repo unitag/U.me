@@ -1,7 +1,5 @@
 #Web App example for a coupon
 
-Adapted from the file single-coupon.png
-
 ```json
 {
     "label": "Coupon Demo",
