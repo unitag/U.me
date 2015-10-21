@@ -21,7 +21,7 @@ Demo of the Google map, Google map markers and Google map directions components.
                 },
                 {
                     "type": "bind-map",
-                    "css": "{height:500px; margin:15px}"
+                    "css": "{height: 500px; margin: 15px}"
                 },
                 {
                     "type": "static-text",
@@ -34,7 +34,7 @@ Demo of the Google map, Google map markers and Google map directions components.
                 },
                 {
                     "type": "bind-map",
-                    "css": "{height:500px; margin:15px}",
+                    "css": "{height: 500px; margin: 15px}",
                     "properties": {
                         "latitude" : "47.5833",
                         "longitude" : "1.3333"
@@ -51,7 +51,7 @@ Demo of the Google map, Google map markers and Google map directions components.
                 },
                 {
                     "type": "bind-map",
-                    "css": "{height:500px; margin:15px}",
+                    "css": "{height: 500px; margin: 15px}",
                     "properties": {
                         "latitude" : "47.5833",
                         "longitude" : "1.3333",
@@ -71,7 +71,7 @@ Demo of the Google map, Google map markers and Google map directions components.
                 },
                 {
                     "type": "bind-map",
-                    "css": "{height:500px; margin:15px}",
+                    "css": "{height: 500px; margin: 15px}",
                     "properties": {
                         "fitToMarkers": true,
                         "markers": [
@@ -99,7 +99,7 @@ Demo of the Google map, Google map markers and Google map directions components.
                 },
                 {
                     "type": "bind-map",
-                    "css": "{height:500px; margin:15px}",
+                    "css": "{height: 500px; margin: 15px}",
                     "properties": {
                         "fitToMarkers": true,
                         "mapType": "hybrid",
@@ -128,7 +128,7 @@ Demo of the Google map, Google map markers and Google map directions components.
                 },
                 {
                     "type": "bind-map",
-                    "css": "{height:500px; margin:15px}",
+                    "css": "{height: 500px; margin: 15px}",
                     "properties": {
                         "fitToMarkers": true,
                         "markers": [
@@ -160,7 +160,7 @@ Demo of the Google map, Google map markers and Google map directions components.
                 },
                 {
                     "type": "bind-map",
-                    "css": "{height:500px; margin:15px}",
+                    "css": "{height: 500px; margin: 15px}",
                     "properties": {
                         "language": "es",
                         "fitToMarkers": true,
