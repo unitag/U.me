@@ -1,10 +1,9 @@
-#Web App example for a coupon
-
-Adapted from the file single-coupon.png
+#Point of interest Web App example
 
 ```json
 {
-    "ume": {
+   "label": "Point of interest demo",
+   "ume": {
         "type": "ume",
         "blocks": {
             "type": "static-page",
