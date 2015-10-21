@@ -3,7 +3,7 @@
 
 ```json
 {
-    "label": "Demo scratchCard",
+    "label": "Simple Scratch Demo",
     "ume": {
         "type": "ume",
         "blocks": {
