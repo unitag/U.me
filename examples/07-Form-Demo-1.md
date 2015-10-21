@@ -4,89 +4,89 @@ Example of a subscription form
 
 ```json
 {
-    label: "Demo form 1",
-    ume: {
-        type: "ume",
-        blocks: {
-            type: "static-page",
-            blocks: [
+    "label": "Demo form 1",
+    "ume": {
+        "type": "ume",
+        "blocks": {
+            "type": "static-page",
+            "blocks": [
                 {
-                    type: "bind-form",
-                    properties: {
-                        label: "FORM inscription",
-                        method: "POST"
+                    "type": "bind-form",
+                    "properties": {
+                        "label": "FORM inscription",
+                        "method": "POST"
                     },
-                    blocks: [
+                    "blocks": [
                         {
-                            type: "static-text",
-                            data: {
-                                text: "Inscription au jeu"
+                            "type": "static-text",
+                            "data": {
+                                "text": "Inscription au jeu"
                             },
-                            properties: {
-                                element: "h2"
+                            "properties": {
+                                "element": "h2"
                             }
                         },
                         {
-                            type: "bind-input",
-                            properties: {
-                                label: "Nom"
+                            "type": "bind-input",
+                            "properties": {
+                                "label": "Nom"
                             }
                         },
                         {
-                            type: "bind-input",
-                            properties: {
-                                label: "Prénom"
+                            "type": "bind-input",
+                            "properties": {
+                                "label": "Prénom"
                             }
                         },
                         {
-                            type: "bind-email-input",
-                            properties: {
-                                label: "E-mail"
+                            "type": "bind-email-input",
+                            "properties": {
+                                "label": "E-mail"
                             }
                         },
                         {
-                            type: "static-text",
-                            data: {
-                                text: "Sexe : "
+                            "type": "static-text",
+                            "data": {
+                                "text": "Sexe: "
                             }
                         },
                         {
-                            type: "bind-radio-group",
-                            blocks: [
+                            "type": "bind-radio-group",
+                            "blocks": [
                                 {
-                                    type: "bind-radio-button",
-                                    properties: {
-                                        label: "Femme",
-                                        name: "Femme"
+                                    "type": "bind-radio-button",
+                                    "properties": {
+                                        "label": "Femme",
+                                        "name": "Femme"
                                     }
                                 },
                                 {
-                                    type: "bind-radio-button",
-                                    properties: {
-                                        label: "Homme",
-                                        name: "Homme"
+                                    "type": "bind-radio-button",
+                                    "properties": {
+                                        "label": "Homme",
+                                        "name": "Homme"
                                     }
                                 }
                             ]
                         },
                         {
-                            type: "bind-checkbox",
-                            properties: {
-                                label: "Je souhaite recevoir la newsletter"
+                            "type": "bind-checkbox",
+                            "properties": {
+                                "label": "Je souhaite recevoir la newsletter"
                             }
                         },
                         {
-                            type: "bind-button",
-                            blocks: [
+                            "type": "bind-button",
+                            "blocks": [
                                 {
-                                    type: "static-text",
-                                    data: {
-                                        text: "S'inscrire"
+                                    "type": "static-text",
+                                    "data": {
+                                        "text": "S'inscrire"
                                     }
                                 }
                             ],
-                            properties: {
-                                raised: true
+                            "properties": {
+                                "raised": true
                             }
                         }
                     ]
