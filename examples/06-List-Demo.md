@@ -4,7 +4,7 @@ Demo of the list block
 
 ```json
 {
-    "label": "demolist",
+    "label": "Demo List",
     "ume": {
         "type": "ume",
         "blocks": {
