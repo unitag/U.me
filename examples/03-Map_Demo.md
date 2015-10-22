@@ -1,6 +1,6 @@
 #Map demo
 
-Demo of the Google map, Google map markers and Google map directions components.
+Live demo [here](http://opn.to/r/ume/map-demo)
 
 ```json
 {
