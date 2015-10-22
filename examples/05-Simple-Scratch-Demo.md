@@ -1,4 +1,4 @@
-#Scratchcard Demo
+#Simple Scratch Demo
 
 Live demo [here](http://opn.to/r/ume/scratch-demo)
 
