@@ -32,11 +32,11 @@
 ###Example
 ```json
 {
-    "type:" "static-list",
+    "type": "static-list",
         "properties": {
             "lines": [
                 {
-                    data: {
+                    "data": {
                         "text": "Title of the element",
                         "subtext": "Subtext to describe the element",
                         "link": "http://www.google.com",
@@ -45,7 +45,7 @@
                     }
                 },
                 {
-                    data: {
+                    "data": {
                         "text": "Second element ",
                         "subtext": "Subtext to describe the second element",
                         "link": "http://www.unitag.io"
@@ -54,7 +54,7 @@
                     }
                 },
                 {
-                    data: {
+                    "data": {
                         "text": "Title of the element",
                         "subtext": "Subtext to describe the element",
                     }
