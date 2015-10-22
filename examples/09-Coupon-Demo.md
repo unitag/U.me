@@ -1,4 +1,4 @@
-#Web App example for a coupon
+#Coupon Demo
 
 Live demo [here](http://opn.to/r/ume/Coupon-demo)
 
