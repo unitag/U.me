@@ -1,5 +1,7 @@
 #Point of interest Web App example
 
+Live demo [here](http://opn.to/r/ume/point-of-interest-demo)
+
 ```json
 {
    "label": "Point of interest demo",
