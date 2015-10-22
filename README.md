@@ -39,13 +39,13 @@ This repository holds the documentation for the Unitag U.me format, which allows
 
 See live demo [here](http://opn.to/r/ume/) or documentation:
 
-1. [Simple Demo](https://github.com/unitag/U.me/blob/master/examples/01-Simple_Demo.md)
-2. [Grid Demo](https://github.com/unitag/U.me/blob/master/examples/02-Grid_Demo.md)
-3. [Map Demo](https://github.com/unitag/U.me/blob/master/examples/03-Map_Demo.md)
-4. [Link Demo](https://github.com/unitag/U.me/blob/master/examples/04-Link_Demo.md)
-5. [Simple scratch Demo](https://github.com/unitag/U.me/blob/master/examples/05-Scratch-Demo.md)
+1. [Simple Demo](https://github.com/unitag/U.me/blob/master/examples/01-Simple-Demo.md)
+2. [Grid Demo](https://github.com/unitag/U.me/blob/master/examples/02-Grid-Demo.md)
+3. [Map Demo](https://github.com/unitag/U.me/blob/master/examples/03-Map-Demo.md)
+4. [Link Demo](https://github.com/unitag/U.me/blob/master/examples/04-Link-Demo.md)
+5. [Simple scratch Demo](https://github.com/unitag/U.me/blob/master/examples/05-Simple-Scratch-Demo.md)
 6. [List Demo](https://github.com/unitag/U.me/blob/master/examples/06-List-Demo.md)
 7. [Form Demo](https://github.com/unitag/U.me/blob/master/examples/07-Form-Demo.md)
-8. [Scratchcard Demo](https://github.com/unitag/U.me/blob/master/examples/08-Scratchcard-WebApp.md)
-9. [Coupon Demo](https://github.com/unitag/U.me/blob/master/examples/09-Coupon-WebApp.md)
-10. [Point of Interest Demo](https://github.com/unitag/U.me/blob/master/examples/10-Points-of-Interest-WebApp.md)
+8. [Scratchcard Demo](https://github.com/unitag/U.me/blob/master/examples/08-Scratchcard-Demo.md)
+9. [Coupon Demo](https://github.com/unitag/U.me/blob/master/examples/09-Coupon-Demo.md)
+10. [Point of Interest Demo](https://github.com/unitag/U.me/blob/master/examples/10-Point-of-Interest-Demo.md)
