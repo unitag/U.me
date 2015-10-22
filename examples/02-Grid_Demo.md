@@ -1,6 +1,6 @@
 #Grid demo
 
-Demo of a grid using various example of display for the same content
+Live demo [here](http://opn.to/r/ume/grid-demo)
 
 ```json
 {
