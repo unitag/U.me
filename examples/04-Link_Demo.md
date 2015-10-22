@@ -1,6 +1,6 @@
 #Link Demo
 
-This demo shows the various properties and display that can be use for the static-link
+Live demo [here](http://opn.to/r/ume/link-demo)
 
 ```json
 {
