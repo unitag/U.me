@@ -1,6 +1,6 @@
 #Simple demo
 
-This demo contains text and image blocks:
+Live demo [here](http://opn.to/r/ume/simple-demo)
 
 ```json
 {
